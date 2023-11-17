@@ -4,19 +4,19 @@ Bu Gizlilik Sözleşmesi, Fazlıhan Software tarafından geliştirilen ve sunula
 
 1. Kullanıcı Verileri
 
-Uygulamamız, kullanıcılar tarafından sağlanan verileri toplamaz, depolamaz, işlemez veya paylaşmaz. QR kodları ve içerikleri yalnızca kullanıcı cihazında işlenir ve depolanır.
+Uygulamamız, kullanıcılar tarafından sağlanan verileri toplamaz, depolamaz, işlemez veya paylaşmaz. QR kodları ve içerikleri yalnızca kullanıcı cihazında işlenir ve depolanmaz.
 
 2. Kamera ve Telefon İzinleri
 
-Uygulamamız, QR kodlarını okumak için kamera izni talep edebilir ve QR kod içeriğinde bir telefon numarası bulunduğunda, kullanıcı izni ile bu numarayı aramak için telefon izni talep edebilir. Bu izinler, yalnızca ilgili işlemleri gerçekleştirmek için kullanılır.
+Uygulamamız, QR kodlarını okumak için kamera izni talep edebilir ve QR kod içeriğinde bir telefon numarası bulunduğunda, kullanıcı izni ile bu numarayı aramak için telefon izni talep edebilir. Okutulan içerik panoya kopyalanabilir. Bu izinler, yalnızca ilgili işlemleri gerçekleştirmek için kullanılır.
 
 3. Kişiselleştirilmiş QR Kodları
 
-Uygulamamız, kullanıcılara kişiselleştirilmiş QR kodları oluşturma olanağı sunar. Bu QR kodlar, kullanıcının kendi cihazında saklanır ve paylaşılır.
+Uygulamamız, kullanıcılara kişiselleştirilmiş QR kodları oluşturma olanağı sunar. Uygulamada okutulan QR kod içerikleri ile Fazlıhan Software ile bir ilişik yoktur.
 
 4. Veri Paylaşımı ve Üçüncü Taraf Hizmetleri
 
-Uygulamamız, kullanıcı verilerini herhangi bir üçüncü tarafa aktarmaz veya paylaşmaz. İletişim bilgileriniz, yalnızca müşteri destek taleplerini yanıtlamak amacıyla kullanılır.
+Uygulamamız, kullanıcı verilerini herhangi bir üçüncü tarafa aktarmaz veya paylaşmaz.
 
 5. Güvenlik
 
@@ -35,4 +35,4 @@ E-posta: sfazlihan@gmail.com
 Bu gizlilik sözleşmesini kabul etmek, QR Wizard uygulamasını kullanırken bu şartları kabul ettiğiniz anlamına gelir. Bu uygulamayı kullanmaya devam ederek, bu sözleşme koşullarını kabul edersiniz.
 
 Fazlıhan Software
-Son Güncelleme Tarihi: 16.11.2023
+Son Güncelleme Tarihi: 17.11.2023
