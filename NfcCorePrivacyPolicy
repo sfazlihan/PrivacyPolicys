@@ -1,0 +1,45 @@
+NFC Core Gizlilik Politikası
+Son Güncelleme: 09.01.2025
+
+NFC Core, kullanıcı gizliliğine önem verir. Bu metin, uygulamamızı kullandığınızda hangi verilerin toplandığını ve nasıl kullanıldığını açıklar.
+
+1. Toplanan Veriler ve Kullanım Amaçları
+Uygulamamız temel işlevlerini yerine getirebilmek için aşağıdaki verilere ihtiyaç duyar:
+
+NFC Verileri: Okuttuğunuz kartların içeriği (UID, teknoloji türü, NDEF kayıtları) uygulama tarafından okunur.
+
+İşlem Geçmişi: Okuttuğunuz kartlar, daha sonra erişebilmeniz için cihazınızdaki yerel veritabanında (Hive) saklanır.
+
+2. Veri Saklama ve Güvenlik
+Yerel Depolama: Uygulama tarafından toplanan tüm veriler yalnızca cihazınızın hafızasında saklanır. Herhangi bir uzak sunucuya veya bulut depolama sistemine verileriniz aktarılmaz.
+
+Kullanıcı Kontrolü: İstediğiniz zaman uygulama içindeki "Ayarlar" menüsünden tüm tarama geçmişini kalıcı olarak silebilirsiniz. Uygulamayı kaldırdığınızda cihazdaki tüm veriler de otomatik olarak silinir.
+
+3. İzinler
+Uygulamanın çalışması için aşağıdaki izinler gereklidir:
+
+NFC Erişimi: Kartları okuyabilmek ve yazabilmek için gereklidir.
+
+İnternet Erişimi: Lottie animasyonlarının yüklenmesi veya uygulama içindeki bağlantıların (URL) tarayıcıda açılması için kullanılır.
+
+4. Üçüncü Taraf Hizmetler
+Uygulamamız aşağıdaki üçüncü taraf kütüphaneleri kullanabilir:
+
+Google Fonts: Görsel arayüz için font sağlar.
+
+Lottie: Uygulama içi animasyonlar için kullanılır.
+
+url_launcher: Uygulama içindeki linklerin varsayılan tarayıcınızda açılmasını sağlar.
+
+5. Çocukların Gizliliği
+Uygulamamız 13 yaş altındaki çocuklardan bilerek kişisel veri toplamaz. Tüm veriler yerel cihazda kaldığı için çocukların gizliliği cihaz düzeyinde korunmaktadır.
+
+6. KVKK ve Kullanıcı Hakları
+Türkiye'deki kullanıcılarımız için 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) uyarınca; verileriniz cihazınızdan dışarı çıkmadığı için veri sorumlusu kullanıcıdır. Uygulama geliştiricisi olarak biz, verilerinize erişemez, bunları göremez veya kopyalayamayız.
+
+7. İletişim
+Bu politika ile ilgili sorularınız için bizimle iletişime geçebilirsiniz:
+
+E-posta: sfazlihan@gmail.com
+
+Geliştirici: JASP
