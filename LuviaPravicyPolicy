@@ -1,0 +1,86 @@
+Luvia - Gizlilik Politikası
+Son Güncelleme Tarihi: 13 Ocak 2026
+
+Luvia ("biz", "bizim" veya "uygulama") olarak, gizliliğinize önem veriyoruz. Bu Gizlilik Politikası, Luvia mobil uygulamasını kullandığınızda bilgilerinizin nasıl toplandığını, kullanıldığını ve paylaşıldığını açıklar.
+
+Uygulamamızı kullanarak, bu politikada açıklanan veri uygulamalarını kabul etmiş olursunuz.
+
+1. Topladığımız Bilgiler
+Luvia, size en doğru namaz vakitlerini ve kıble yönünü sunabilmek için belirli bilgilere ihtiyaç duyar.
+
+A. Konum Bilgileri (GPS ve Ağ Tabanlı)
+Kullanım Amacı: Namaz vakitlerini bulunduğunuz yere göre tam olarak hesaplamak, Kıble yönünü pusula üzerinde doğru göstermek ve "Ezan Yaklaşıyor" bildirimlerini zamanında iletmek için konum verilerinizi kullanırız.
+
+Depolama: Konum verileriniz anlık hesaplama için kullanılır. Luvia, konum geçmişinizi sunucularında saklamaz veya takip etmez.
+
+Arka Plan Konumu: Widget (araç takımı) özelliğini kullandığınızda, uygulama kapalıyken bile namaz vakitlerini güncel tutmak için konum verilerine (veya son bilinen konuma) erişim gerekebilir.
+
+B. Cihaz ve Kullanım Verileri
+Uygulamayı nasıl kullandığınız, hangi özelliklere (Manevi DNA, Zikirmatik vb.) daha çok ilgi gösterdiğiniz, cihaz modeli, işletim sistemi sürümü ve çökme raporları (Crash logs) gibi teknik veriler, uygulama performansını iyileştirmek amacıyla toplanabilir.
+
+C. Kullanıcı Tarafından Sağlanan Veriler (Yerel Depolama)
+Zikirmatik: Çektiğiniz zikir sayıları cihazınızın hafızasında tutulur.
+
+Zekat ve Fidye Hesaplama: Girdiğiniz maddi değerler (altın, nakit vb.) sadece anlık hesaplama için kullanılır ve asla sunucularımıza gönderilmez. Bu veriler tamamen cihazınızda kalır.
+
+Manevi DNA Testi: Test sonuçlarınız ve cevaplarınız cihazınızda yerel olarak işlenir.
+
+2. Bilgilerin Kullanımı
+Topladığımız verileri şu amaçlarla kullanırız:
+
+Temel Hizmetler: Namaz vakitlerini hesaplamak, kıbleyi göstermek.
+
+Kişiselleştirme: Size özel içerikler (Günün Ayeti, Hadis) sunmak.
+
+Bildirimler: İftar, sahur ve namaz vakitlerinde hatırlatma bildirimleri göndermek.
+
+İyileştirme: Hataları tespit etmek ve kullanıcı deneyimini geliştirmek.
+
+Reklamlar: Uygulamanın ücretsiz kalabilmesi için üçüncü taraf reklam ağları (Google AdMob vb.) aracılığıyla size ilgi alanınıza dayalı reklamlar göstermek.
+
+3. Üçüncü Taraf Hizmetler ve Veri Paylaşımı
+Kişisel verilerinizi asla üçüncü şahıslara satmıyoruz. Ancak, uygulamanın çalışması için aşağıdaki güvenilir servis sağlayıcılarla işbirliği yapıyoruz:
+
+Google AdMob: Uygulama içinde reklam gösterimi için kullanılır. Reklam kimliğinizi (Advertising ID) kullanarak kişiselleştirilmiş reklamlar sunabilir.
+
+Google Firebase & Analytics: Uygulama hatalarını izlemek ve kullanıcı etkileşimlerini anonim olarak analiz etmek için kullanılır.
+
+OpenStreetMap / Google Maps API: Konum tespiti ve şehir bulma işlemleri için kullanılır.
+
+Bu üçüncü taraf hizmetlerin kendi gizlilik politikaları geçerlidir ve verilerinizi nasıl işlediklerini kendi sitelerinden inceleyebilirsiniz.
+
+4. İzinler
+Luvia şu izinleri talep edebilir:
+
+Konum (Location): Vakit hesaplaması ve kıble için.
+
+Bildirimler (Notifications): Ezan vakti uyarıları için.
+
+Depolama (Storage): (Gerekirse) Paylaşım görsellerini geçici olarak kaydetmek için.
+
+Titreşim (Vibration): Zikirmatik ve bildirimlerde geri bildirim için.
+
+Alarm/Tam Zamanlama (Schedule Exact Alarm): Android 12 ve üzeri cihazlarda tam vaktinde ezan okumak için.
+
+5. Veri Güvenliği
+Verilerinizin güvenliğini sağlamak için endüstri standardı güvenlik önlemleri uyguluyoruz. Zekat hesaplamaları ve test sonuçları gibi hassas veriler internet üzerinden taşınmaz, cihazınızda saklanır. Ancak, internet üzerinden yapılan hiçbir veri iletiminin %100 güvenli olmadığını hatırlatırız.
+
+6. Çocukların Gizliliği
+Luvia, bilerek 13 yaşın altındaki çocuklardan kişisel veri toplamaz. Uygulamamız genel izleyici kitlesine uygundur.
+
+7. Haklarınız (KVKK ve GDPR)
+Kullanıcı olarak aşağıdaki haklara sahipsiniz:
+
+Uygulamayı cihazınızdan kaldırarak tüm yerel verilerinizi silme.
+
+Uygulama ayarlarından kişiselleştirilmiş reklamları kapatma.
+
+Konum iznini cihaz ayarlarından iptal etme.
+
+8. Politikadaki Değişiklikler
+Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Değişiklikler bu sayfada yayınlandığı andan itibaren geçerli olacaktır. Önemli değişikliklerde uygulama içi bildirim ile sizi haberdar edeceğiz.
+
+9. İletişim
+Bu Gizlilik Politikası hakkında sorularınız veya önerileriniz varsa, lütfen bizimle iletişime geçin:
+
+E-posta: sfazlihan@gmail.com
