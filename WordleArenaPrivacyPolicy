@@ -1,0 +1,43 @@
+Wordle Arena Gizlilik Politikası
+Yürürlük Tarihi: 22 Şubat 2026
+
+Wordle Arena topluluğunun ("biz", "bize", "bizim") bir parçası olmayı seçtiğiniz için teşekkür ederiz. Kişisel bilgilerinizi ve gizlilik hakkınızı korumayı taahhüt ediyoruz. Bu gizlilik bildirimi veya kişisel bilgilerinize yönelik uygulamalarımız hakkında herhangi bir sorunuz veya endişeniz varsa, lütfen bizimle iletişime geçin.
+
+Bu gizlilik bildirimi, aşağıdaki durumlarda bilgilerinizi nasıl kullanabileceğimizi açıklar:
+
+Mobil uygulamamızı (Wordle Arena) indirip kullandığınızda
+Satışlar, pazarlama veya etkinlikler dahil olmak üzere bizimle diğer ilgili yollarla etkileşime girdiğinizde
+1. Topladığımız Bilgiler
+A. Otomatik Olarak Toplanan Bilgiler
+Uygulamamızı kullandığınızda, cihazınız ve kullanımınız hakkında belirli bilgileri otomatik olarak toplarız. Bu bilgiler belirli kimliğinizi (adınız veya iletişim bilgileriniz gibi) ifşa etmez, ancak cihaz ve kullanım bilgilerini içerebilir. Bunlar; IP adresiniz, tarayıcı ve cihaz özellikleriniz, işletim sisteminiz, dil tercihleriniz, cihaz adınız, bulunduğunuz ülke/bölge, konumunuz, uygulamamızı nasıl ve ne zaman kullandığınız hakkındaki bilgiler ve diğer teknik bilgilerdir. Bu bilgiler öncelikli olarak uygulamamızın güvenliğini ve çalışmasını sürdürmek ve kurum içi analiz ve raporlama amaçlarımız için gereklidir.
+
+B. Uygulama İzinleri
+Uygulamamız aşağıdaki belirli izinleri talep eder:
+
+Kamera Erişimi (android.permission.CAMERA): Kamera erişimini kesinlikle ve sadece uygulama içinde kullanıcıların (arkadaşların) birbirlerini ekleyebilmesi için QR kodlarını taramak amacıyla talep ediyoruz. Video kaydetmiyoruz, başka amaçlar için fotoğraf çekmiyoruz veya kamera akışınızı sunucularımıza veya herhangi bir üçüncü taraf sunucuya yüklemiyoruz. Tüm QR tarama işlemleri cihazınızda yerel olarak (çevrimdışı) gerçekleştirilir.
+İnternet/Ağ Durumu: Oyun senkronizasyonu, çok oyunculu (multiplayer) eşleştirme ve skor tablosu güncellemeleri için sunucularımızla (Firebase) iletişim kurmak amacıyla gereklidir.
+2. Üçüncü Taraf Hizmetleri
+Wordle Arena, sizi tanımlamak için kullanılan bilgileri toplayabilecek üçüncü taraf hizmetleri kullanır. Aşağıda uygulamamız tarafından kullanılan üçüncü taraf hizmet sağlayıcıları ve gizlilik politikalarına ait bağlantılar bulunmaktadır:
+
+Google Play Hizmetleri: Uygulama dağıtımı ve temel cihaz hizmetleri için kullanılır. Gizlilik Politikası
+Google Analytics for Firebase / Firebase Crashlytics: Oyun ilerlemenizi cihazlar arasında senkronize etmek, kullanıcı hesaplarını yönetmek (Google ile Giriş veya Anonim Giriş yoluyla) ve uygulamayı geliştirmek adına çökme/hata raporları toplamak için Firebase'i kullanıyoruz. Firebase Gizlilik Politikası
+Google AdMob: Uygulama içinde reklamlar gösteriyoruz. AdMob, size ilgi alanlarınıza göre kişiselleştirilmiş reklamlar sunmak için reklam kimliklerini kullanabilir. AdMob Gizlilik Politikası
+Google Play Faturalandırma (Uygulama İçi Satın Alımlar): Uygulama içi satın alımlar sunuyoruz. Tüm ödeme işlemleri Google Play aracılığıyla güvenli bir şekilde gerçekleştirilir. Kredi kartı ayrıntılarınızı veya ödeme bilgilerinizi toplamıyoruz, işlemiyoruz veya saklamıyoruz.
+3. Bilgilerinizi Nasıl Kullanıyoruz?
+Uygulamamız aracılığıyla toplanan kişisel bilgileri aşağıda açıklanan çeşitli iş amaçları için kullanıyoruz:
+
+Hesap oluşturma ve oturum açma sürecini kolaylaştırmak: İlerlemenizi kaydetmenize ve birden fazla cihazda oynamanıza olanak sağlamak için Firebase Kimlik Doğrulaması (Authentication) kullanıyoruz.
+Kullanıcılar arası iletişimi/oyunu yönetmek: Sistem tarafından oluşturulan "Arkadaş Kodunuz" ve görünen adınız, diğer kullanıcılarla bağlantı kurmanıza ve birlikte oynamanıza olanak sağlamak için kullanılır.
+Hedefli reklamlar sunmak: Uygulamayı ziyaret ettiğinizde reklam sunmak için üçüncü taraf reklam şirketlerini kullanabiliriz. Bu şirketler, ilginizi çekebilecek mal ve hizmetlerle ilgili reklamlar sağlamak için Uygulamamıza ve diğer web sitelerine yaptığınız ziyaretler hakkındaki bilgileri kullanabilir.
+Analiz ve performans ayarı için: Kullanıcıların uygulamamızla nasıl etkileşime girdiğini anlamak ve yazılım hatalarını çözmek amacıyla.
+4. Bilgilerinizi Ne Kadar Süre Saklıyoruz?
+Kişisel bilgilerinizi, yasalarca daha uzun bir saklama süresi (vergi, muhasebe veya diğer yasal zorunluluklar vb.) gerekmediği veya izin verilmediği sürece, yalnızca bu gizlilik bildiriminde belirtilen amaçlar için gerekli olduğu sürece saklayacağız. Kişisel bilgilerinizi işlemek için devam eden meşru bir iş ihtiyacımız olmadığında, bu bilgileri sileriz veya anonimleştiririz.
+
+5. Bilgilerinizin Güvenliği
+İşlediğimiz tüm kişisel bilgilerin (örneğin Google Firebase'in güvenli veritabanı kurallarını kullanarak) güvenliğini korumak için tasarlanmış uygun teknik ve kurumsal güvenlik önlemlerini uyguladık. Ancak, bilgilerinizi korumaya yönelik tüm çabalarımıza rağmen, İnternet üzerinden hiçbir elektronik iletimin veya bilgi depolama teknolojisinin %100 güvenli olduğu garanti edilemez.
+
+6. Çocukların Gizliliği
+Uygulamamız 13 yaşın altındaki çocuklara yönelik değildir. 13 yaşın altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgiler toplamıyoruz. 13 yaşın altındaki bir çocuğun bize kişisel bilgiler sağladığını tespit edersek, bunu derhal sunucularımızdan sileriz.
+
+7. Bu Gizlilik Politikasındaki Değişiklikler
+Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Güncellenmiş sürüm, güncellenmiş bir "Yürürlük Tarihi" ile belirtilecek ve güncellenmiş sürüm erişilebilir olduğu anda geçerli olacaktır. Bilgilerinizi nasıl koruduğumuzdan haberdar olmak için bu gizlilik bildirimini sık sık incelemenizi öneririz.
