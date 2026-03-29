@@ -1,43 +1,164 @@
+Wordle Arena — Gizlilik Politikası / Privacy Policy
+🇹🇷 Türkçe
 Wordle Arena Gizlilik Politikası
-Yürürlük Tarihi: 22 Şubat 2026
+Yürürlük Tarihi: 29 Mart 2026
 
-Wordle Arena topluluğunun ("biz", "bize", "bizim") bir parçası olmayı seçtiğiniz için teşekkür ederiz. Kişisel bilgilerinizi ve gizlilik hakkınızı korumayı taahhüt ediyoruz. Bu gizlilik bildirimi veya kişisel bilgilerinize yönelik uygulamalarımız hakkında herhangi bir sorunuz veya endişeniz varsa, lütfen bizimle iletişime geçin.
+Wordle Arena'yı ("biz", "bize", "bizim") tercih ettiğiniz için teşekkür ederiz. Kişisel bilgilerinizi ve gizlilik hakkınızı korumayı taahhüt ediyoruz. Bu politika veya uygulamalarımız hakkında sorularınız için lütfen bizimle iletişime geçin.
 
-Bu gizlilik bildirimi, aşağıdaki durumlarda bilgilerinizi nasıl kullanabileceğimizi açıklar:
-
-Mobil uygulamamızı (Wordle Arena) indirip kullandığınızda
-Satışlar, pazarlama veya etkinlikler dahil olmak üzere bizimle diğer ilgili yollarla etkileşime girdiğinizde
 1. Topladığımız Bilgiler
-A. Otomatik Olarak Toplanan Bilgiler
-Uygulamamızı kullandığınızda, cihazınız ve kullanımınız hakkında belirli bilgileri otomatik olarak toplarız. Bu bilgiler belirli kimliğinizi (adınız veya iletişim bilgileriniz gibi) ifşa etmez, ancak cihaz ve kullanım bilgilerini içerebilir. Bunlar; IP adresiniz, tarayıcı ve cihaz özellikleriniz, işletim sisteminiz, dil tercihleriniz, cihaz adınız, bulunduğunuz ülke/bölge, konumunuz, uygulamamızı nasıl ve ne zaman kullandığınız hakkındaki bilgiler ve diğer teknik bilgilerdir. Bu bilgiler öncelikli olarak uygulamamızın güvenliğini ve çalışmasını sürdürmek ve kurum içi analiz ve raporlama amaçlarımız için gereklidir.
+A. Otomatik Olarak Toplanan Teknik Bilgiler
+Uygulamayı kullandığınızda aşağıdaki teknik veriler otomatik olarak toplanabilir:
 
-B. Uygulama İzinleri
-Uygulamamız aşağıdaki belirli izinleri talep eder:
+IP adresi, cihaz türü, işletim sistemi ve dil tercihleri
+Uygulama kullanım istatistikleri ve oturum bilgileri
+Çökme raporları ve hata günlükleri
+Bu bilgiler kimliğinizi doğrudan açıklamaz; uygulamanın güvenliğini ve stabilitesini sağlamak amacıyla kullanılır.
 
-Kamera Erişimi (android.permission.CAMERA): Kamera erişimini kesinlikle ve sadece uygulama içinde kullanıcıların (arkadaşların) birbirlerini ekleyebilmesi için QR kodlarını taramak amacıyla talep ediyoruz. Video kaydetmiyoruz, başka amaçlar için fotoğraf çekmiyoruz veya kamera akışınızı sunucularımıza veya herhangi bir üçüncü taraf sunucuya yüklemiyoruz. Tüm QR tarama işlemleri cihazınızda yerel olarak (çevrimdışı) gerçekleştirilir.
-İnternet/Ağ Durumu: Oyun senkronizasyonu, çok oyunculu (multiplayer) eşleştirme ve skor tablosu güncellemeleri için sunucularımızla (Firebase) iletişim kurmak amacıyla gereklidir.
-2. Üçüncü Taraf Hizmetleri
-Wordle Arena, sizi tanımlamak için kullanılan bilgileri toplayabilecek üçüncü taraf hizmetleri kullanır. Aşağıda uygulamamız tarafından kullanılan üçüncü taraf hizmet sağlayıcıları ve gizlilik politikalarına ait bağlantılar bulunmaktadır:
+B. Hesap Bilgileri
+Google ile Giriş yaptığınızda aşağıdaki bilgilere erişiyoruz:
 
-Google Play Hizmetleri: Uygulama dağıtımı ve temel cihaz hizmetleri için kullanılır. Gizlilik Politikası
-Google Analytics for Firebase / Firebase Crashlytics: Oyun ilerlemenizi cihazlar arasında senkronize etmek, kullanıcı hesaplarını yönetmek (Google ile Giriş veya Anonim Giriş yoluyla) ve uygulamayı geliştirmek adına çökme/hata raporları toplamak için Firebase'i kullanıyoruz. Firebase Gizlilik Politikası
-Google AdMob: Uygulama içinde reklamlar gösteriyoruz. AdMob, size ilgi alanlarınıza göre kişiselleştirilmiş reklamlar sunmak için reklam kimliklerini kullanabilir. AdMob Gizlilik Politikası
-Google Play Faturalandırma (Uygulama İçi Satın Alımlar): Uygulama içi satın alımlar sunuyoruz. Tüm ödeme işlemleri Google Play aracılığıyla güvenli bir şekilde gerçekleştirilir. Kredi kartı ayrıntılarınızı veya ödeme bilgilerinizi toplamıyoruz, işlemiyoruz veya saklamıyoruz.
-3. Bilgilerinizi Nasıl Kullanıyoruz?
-Uygulamamız aracılığıyla toplanan kişisel bilgileri aşağıda açıklanan çeşitli iş amaçları için kullanıyoruz:
+E-posta adresiniz ve Google profilinizle ilişkili görünen ad
+Anonim giriş tercih ederseniz yalnızca sistem tarafından oluşturulan anonim bir kullanıcı kimliği saklanır.
 
-Hesap oluşturma ve oturum açma sürecini kolaylaştırmak: İlerlemenizi kaydetmenize ve birden fazla cihazda oynamanıza olanak sağlamak için Firebase Kimlik Doğrulaması (Authentication) kullanıyoruz.
-Kullanıcılar arası iletişimi/oyunu yönetmek: Sistem tarafından oluşturulan "Arkadaş Kodunuz" ve görünen adınız, diğer kullanıcılarla bağlantı kurmanıza ve birlikte oynamanıza olanak sağlamak için kullanılır.
-Hedefli reklamlar sunmak: Uygulamayı ziyaret ettiğinizde reklam sunmak için üçüncü taraf reklam şirketlerini kullanabiliriz. Bu şirketler, ilginizi çekebilecek mal ve hizmetlerle ilgili reklamlar sağlamak için Uygulamamıza ve diğer web sitelerine yaptığınız ziyaretler hakkındaki bilgileri kullanabilir.
-Analiz ve performans ayarı için: Kullanıcıların uygulamamızla nasıl etkileşime girdiğini anlamak ve yazılım hatalarını çözmek amacıyla.
-4. Bilgilerinizi Ne Kadar Süre Saklıyoruz?
-Kişisel bilgilerinizi, yasalarca daha uzun bir saklama süresi (vergi, muhasebe veya diğer yasal zorunluluklar vb.) gerekmediği veya izin verilmediği sürece, yalnızca bu gizlilik bildiriminde belirtilen amaçlar için gerekli olduğu sürece saklayacağız. Kişisel bilgilerinizi işlemek için devam eden meşru bir iş ihtiyacımız olmadığında, bu bilgileri sileriz veya anonimleştiririz.
+C. Oyun Verisi
+Oyun ilerlemeniz, skorunuz ve istatistikleriniz
+Arkadaş listeniz ve görünen adınız (diğer kullanıcılarla eşleşme için)
+2. Cihaz İzinleri
+İzin	Neden Gerekli?
+Kamera	Yalnızca arkadaş ekleme ekranında QR kodu taramak için kullanılır. Video kaydedilmez, görüntü sunucuya gönderilmez. Tüm işlemler cihazda yerel olarak gerçekleşir.
+İnternet / Ağ Durumu	Multiplayer eşleştirme, skor senkronizasyonu ve Firebase hizmetleri için gereklidir.
+Bildirimler	Oyun davetleri ve önemli güncellemeler için kullanılır. İzni istediğiniz zaman cihaz ayarlarından iptal edebilirsiniz.
+3. Kullandığımız Üçüncü Taraf Hizmetler
+Google Play Hizmetleri
+Uygulama dağıtımı ve temel cihaz hizmetleri için kullanılır. Gizlilik Politikası →
 
-5. Bilgilerinizin Güvenliği
-İşlediğimiz tüm kişisel bilgilerin (örneğin Google Firebase'in güvenli veritabanı kurallarını kullanarak) güvenliğini korumak için tasarlanmış uygun teknik ve kurumsal güvenlik önlemlerini uyguladık. Ancak, bilgilerinizi korumaya yönelik tüm çabalarımıza rağmen, İnternet üzerinden hiçbir elektronik iletimin veya bilgi depolama teknolojisinin %100 güvenli olduğu garanti edilemez.
+Firebase Authentication
+Google ile oturum açma ve anonim giriş gibi kimlik doğrulama işlemlerini yönetmek için kullanılır. Firebase Gizlilik Politikası →
 
-6. Çocukların Gizliliği
-Uygulamamız 13 yaşın altındaki çocuklara yönelik değildir. 13 yaşın altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgiler toplamıyoruz. 13 yaşın altındaki bir çocuğun bize kişisel bilgiler sağladığını tespit edersek, bunu derhal sunucularımızdan sileriz.
+Cloud Firestore
+Oyun ilerlemenizi, arkadaş listenizi ve uygulama içi verileri depolamak için kullanılır.
 
-7. Bu Gizlilik Politikasındaki Değişiklikler
-Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Güncellenmiş sürüm, güncellenmiş bir "Yürürlük Tarihi" ile belirtilecek ve güncellenmiş sürüm erişilebilir olduğu anda geçerli olacaktır. Bilgilerinizi nasıl koruduğumuzdan haberdar olmak için bu gizlilik bildirimini sık sık incelemenizi öneririz.
+Firebase Cloud Functions
+Sunucu taraflı güvenli işlemler (eşleştirme mantığı, bildirim tetikleyicileri gibi) için kullanılır.
+
+Firebase Cloud Messaging (FCM)
+Oyun davetleri ve güncellemelere ait push bildirimlerini iletmek için kullanılır. Bu amaçla cihazınıza özgü bir FCM Token oluşturulur ve saklanır. Bildirimleri cihaz ayarlarınızdan devre dışı bırakabilirsiniz.
+
+Firebase Crashlytics
+Uygulama çökmelerini ve hatalarını tespit edip düzeltmek için anonim hata raporları toplar. Firebase Gizlilik Politikası →
+
+Google AdMob
+Uygulama içi reklam gösterimi için kullanılır. AdMob, ilgi alanlarınıza göre kişiselleştirilmiş reklamlar sunmak için reklam tanımlayıcılarını (Advertising ID) kullanabilir. AdMob Gizlilik Politikası →
+
+Google Play Faturalandırma — Uygulama İçi Satın Alımlar
+Ödeme işlemleri tamamen Google Play altyapısı üzerinden gerçekleştirilir. Kredi kartı veya ödeme bilgilerinizi toplamıyor, işlemiyor ya da saklamıyoruz. Google Play Gizlilik Politikası →
+
+4. Paylaşma ve Ekran Görüntüsü Özellikleri
+Oyun sonuçlarınızı veya istatistiklerinizi paylaşabilirsiniz. Uygulama bu amaçla cihazınızda geçici olarak bir görüntü oluşturur. Bu görüntüler sunucularımıza yüklenmez; doğrudan cihazınızın paylaşım menüsü aracılığıyla gönderilir.
+
+5. Bilgilerin Kullanım Amaçları
+Toplanan bilgileri yalnızca şu amaçlarla kullanırız:
+
+Hesap oluşturma ve kimlik doğrulama
+Multiplayer eşleştirme ve arkadaş sistemi
+Oyun ilerlemenizin cihazlar arası senkronizasyonu
+Uygulama içi reklam gösterimi
+Çökme ve hata tespiti (Crashlytics)
+Push bildirimleri gönderme (oyun davetleri, güncellemeler)
+Hizmetlerimizin geliştirilmesi ve performans analizi
+6. Veri Saklama Süresi
+Kişisel verileriniz, yasal bir zorunluluk olmadığı sürece yalnızca bu politikada belirtilen amaçlar için gerekli olduğu sürece saklanır. Hesabınızı sildiğinizde verileriniz sistemden kaldırılır.
+
+7. Veri Güvenliği
+Firebase'in güvenlik kuralları ve endüstri standardı şifreleme yöntemleri kullanılarak tüm verilerinizin korunması için gerekli teknik ve idari önlemleri alıyoruz. Ancak İnternet üzerinden hiçbir iletimin %100 güvenli olduğunu garanti edemeyiz.
+
+8. Çocukların Gizliliği
+Uygulamamız 13 yaşın altındaki çocuklara yönelik değildir. 13 yaşın altındaki bir kullanıcıdan bilerek kişisel veri toplamıyoruz. Böyle bir durumu tespit edersek ilgili verileri derhal sileriz.
+
+9. Politika Güncellemeleri
+Bu politikayı zaman zaman güncelleyebiliriz. Değişiklikler bu sayfada "Yürürlük Tarihi" güncellenerek yayınlanır. Önemli değişikliklerde sizi bildirim yoluyla da haberdar edebiliriz.
+
+10. İletişim
+Bu gizlilik politikası hakkında sorularınız için: sfazlihan@gmail.com
+
+🇬🇧 English
+Wordle Arena Privacy Policy
+Effective Date: March 29, 2026
+
+Thank you for choosing Wordle Arena ("we", "us", "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions about this policy or our practices, please contact us.
+
+1. Information We Collect
+A. Automatically Collected Technical Information
+When you use the app, the following technical data may be automatically collected:
+
+IP address, device type, operating system, and language preferences
+App usage statistics and session information
+Crash reports and error logs
+This information does not directly identify you personally and is used to maintain the security and stability of the application.
+
+B. Account Information
+If you sign in with Google, we access:
+
+Your email address and display name associated with your Google profile
+If you choose anonymous sign-in, only a system-generated anonymous user ID is stored.
+
+C. Game Data
+Your game progress, scores, and statistics
+Your friend list and display name (used for multiplayer matching)
+2. Device Permissions
+Permission	Why It's Needed
+Camera	Used exclusively to scan QR codes on the friend-adding screen. No video is recorded, no images are sent to servers. All processing happens locally on your device.
+Internet / Network State	Required for multiplayer matchmaking, score synchronization, and Firebase services.
+Notifications	Used to deliver game invitations and important updates. You can revoke this permission at any time in your device settings.
+3. Third-Party Services We Use
+Google Play Services
+Used for app distribution and core device services. Privacy Policy →
+
+Firebase Authentication
+Manages identity verification, including Google Sign-In and anonymous sign-in. Firebase Privacy Policy →
+
+Cloud Firestore
+Stores your game progress, friend list, and in-app data.
+
+Firebase Cloud Functions
+Used for secure server-side operations such as matchmaking logic and notification triggers.
+
+Firebase Cloud Messaging (FCM)
+Used to deliver push notifications for game invitations and updates. A device-specific FCM Token is generated and stored for this purpose. You can disable notifications at any time in your device settings.
+
+Firebase Crashlytics
+Collects anonymous error reports to detect and fix application crashes and bugs. Firebase Privacy Policy →
+
+Google AdMob
+Used to display in-app advertisements. AdMob may use advertising identifiers (e.g., Android Advertising ID) to serve personalized ads based on your interests. AdMob Privacy Policy →
+
+Google Play Billing — In-App Purchases
+All payment transactions are processed entirely through Google Play's infrastructure. We do not collect, process, or store your credit card or payment details. Google Play Privacy Policy →
+
+4. Sharing & Screenshot Features
+You can share your game results or statistics. To do so, the app temporarily generates an image on your device. These images are not uploaded to our servers; they are shared directly through your device's native share sheet.
+
+5. How We Use Your Information
+We use the collected information solely for the following purposes:
+
+Account creation and authentication
+Multiplayer matchmaking and the friend system
+Cross-device synchronization of game progress
+Displaying in-app advertisements
+Crash and error detection (Crashlytics)
+Sending push notifications (game invitations, updates)
+Improving our services and performance analysis
+6. Data Retention
+Your personal data is retained only for as long as necessary for the purposes stated in this policy, unless a longer retention period is required by law. When you delete your account, your data is removed from our systems.
+
+7. Data Security
+We implement appropriate technical and administrative measures to protect your data, including Firebase security rules and industry-standard encryption. However, no electronic transmission over the Internet can be guaranteed to be 100% secure.
+
+8. Children's Privacy
+Our application is not directed at children under the age of 13. We do not knowingly collect personal data from children under 13. If we become aware that such data has been collected, we will delete it immediately.
+
+9. Policy Updates
+We may update this policy from time to time. Changes will be posted on this page with an updated "Effective Date." For significant changes, we may also notify you via an in-app notification.
+
+10. Contact Us
+For any questions about this privacy policy: sfazlihan@gmail.com
