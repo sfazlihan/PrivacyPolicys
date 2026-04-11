@@ -1,0 +1,42 @@
+Gizlilik Politikası
+Son Güncelleme: 11 Nisan 2026
+
+"Malum Geri Sayım : 2028!" ("Uygulama") olarak, gizliliğinize önem veriyoruz. Bu Gizlilik Politikası, uygulamamızı kullandığınızda toplanan bilgiler, bu bilgilerin nasıl kullanıldığı ve haklarınız hakkında sizi bilgilendirmeyi amaçlamaktadır.
+
+1. Toplanan Bilgiler ve Kullanım Amacı
+Uygulamamız, daha iyi bir kullanıcı deneyimi sunmak, uygulama içindeki işlevleri çalıştırmak ve reklam hizmetleri sağlamak amacıyla belirli üçüncü taraf hizmetlerini kullanır.
+
+A. Firebase Hizmetleri (Google LLC)
+Uygulama, veri yönetimi ve kullanıcı doğrulaması için Google Firebase kullanmaktadır:
+
+Firebase Auth: Uygulamaya giriş yapmanız durumunda (anonim giriş dahil) kimliğinizi doğrulamak için kullanılır.
+Cloud Firestore: Kullanıcı tercihleri veya bağış kayıtları gibi uygulama verilerini saklamak için kullanılır.
+Toplanan Veriler: Cihaz tanımlayıcıları (ID), kullanıcı UID'si ve uygulama kullanım istatistikleri.
+B. Google AdMob
+Uygulama, reklam gösterimi için Google AdMob servisini kullanmaktadır:
+
+Toplanan Veriler: Reklam Kimliği (Advertising ID - Android), IDFA (iOS), cihaz bilgisi ve reklam etkileşim verileri.
+Kullanım Amacı: Size ilgi alanlarınıza yönelik reklamlar sunmak (kişiselleştirilmiş reklamlar) ve reklam performansını ölçmek.
+C. Uygulama İçi Satın Almalar (IAP)
+Bağış yapmak istediğinizde, işlemler Google Play Store veya Apple App Store üzerinden gerçekleşir:
+
+Toplanan Veriler: Ödeme işlemlerine dair dekont ve işlem durumu bilgileri. (Kredi kartı bilgileriniz doğrudan ilgili uygulama mağazası tarafından işlenir, tarafımızca saklanmaz).
+2. Çerezler ve Yerel Depolama
+Uygulama, kullanım tercihlerinizi hatırlamak ve oturumunuzu açık tutmak için cihazınızdaki yerel depolama özelliklerini kullanabilir.
+
+3. Veri Güvenliği
+Verilerinizin güvenliğini sağlamak için endüstri standardı güvenlik önlemleri almaktayız. Ancak internet üzerinden iletilen veya elektronik olarak depolanan hiçbir yöntemin %100 güvenli olmadığını hatırlatmak isteriz.
+
+4. Çocukların Gizliliği
+Bu Uygulama, 13 yaşın altındaki bireylere doğrudan hitap etmemektedir. Bilerek 13 yaşın altındaki çocuklardan kişisel bilgi toplamıyoruz. Eğer bir çocuğun bize kişisel bilgi verdiğini fark edersek, bu verileri derhal sunucularımızdan siliyoruz.
+
+5. Üçüncü Taraf Bağlantıları
+Uygulama, bizim tarafımızdan işletilmeyen diğer sitelere veya servislere (reklamlar gibi) bağlantılar içerebilir. Bu üçüncü taraf sitelerin gizlilik politikalarını incelemenizi öneririz.
+
+6. Haklarınız
+Kullanıcılar olarak, hakkınızda toplanan verilere erişme ve bu verilerin silinmesini talep etme hakkına sahipsiniz. Sorularınız için bizimle iletişime geçebilirsiniz.
+
+7. İletişim
+Bu gizlilik politikası ile ilgili herhangi bir sorunuz veya öneriniz varsa, lütfen bizimle iletişime geçmekten çekinmeyin.
+
+E-posta: sfazlihan@gmail.com
