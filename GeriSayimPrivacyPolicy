@@ -10,7 +10,7 @@ A. Firebase Hizmetleri (Google LLC)
 Uygulama, veri yönetimi ve kullanıcı doğrulaması için Google Firebase kullanmaktadır:
 
 Firebase Auth: Uygulamaya giriş yapmanız durumunda (anonim giriş dahil) kimliğinizi doğrulamak için kullanılır.
-Cloud Firestore: Kullanıcı tercihleri veya bağış kayıtları gibi uygulama verilerini saklamak için kullanılır.
+Cloud Firestore: Kullanıcı tercihleri veya destek kayıtları gibi uygulama verilerini saklamak için kullanılır.
 Toplanan Veriler: Cihaz tanımlayıcıları (ID), kullanıcı UID'si ve uygulama kullanım istatistikleri.
 B. Google AdMob
 Uygulama, reklam gösterimi için Google AdMob servisini kullanmaktadır:
@@ -18,7 +18,7 @@ Uygulama, reklam gösterimi için Google AdMob servisini kullanmaktadır:
 Toplanan Veriler: Reklam Kimliği (Advertising ID - Android), IDFA (iOS), cihaz bilgisi ve reklam etkileşim verileri.
 Kullanım Amacı: Size ilgi alanlarınıza yönelik reklamlar sunmak (kişiselleştirilmiş reklamlar) ve reklam performansını ölçmek.
 C. Uygulama İçi Satın Almalar (IAP)
-Bağış yapmak istediğinizde, işlemler Google Play Store veya Apple App Store üzerinden gerçekleşir:
+destek yapmak istediğinizde, işlemler Google Play Store veya Apple App Store üzerinden gerçekleşir:
 
 Toplanan Veriler: Ödeme işlemlerine dair dekont ve işlem durumu bilgileri. (Kredi kartı bilgileriniz doğrudan ilgili uygulama mağazası tarafından işlenir, tarafımızca saklanmaz).
 2. Çerezler ve Yerel Depolama
